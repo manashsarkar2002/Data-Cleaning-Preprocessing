@@ -53,7 +53,7 @@ The dataset used is the classic Titanic dataset, containing information about pa
 
 ## 🧪 Tools & Libraries Used
 
-- Python 3.x
+- Python 3.13.3
 - Pandas
 - NumPy
 - scikit-learn (for Label Encoding)
@@ -66,5 +66,3 @@ The dataset used is the classic Titanic dataset, containing information about pa
 - `Titanic-Dataset-Encoded-Clean.csv`: Dataset after outlier handling
 
 ---
-
-
